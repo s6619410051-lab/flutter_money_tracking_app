@@ -1,16 +1,15 @@
-# flutter_money_tracking_app
+## Mobile Application by flutter/Dart
 
-A new Flutter project.
+## แอปพลิเคชั้นบันทึกและเก็บข้อมูลบัญชีรายรับรายจ่าย
 
-## Getting Started
+<img width="300" src="https://github.com/user-attachments/assets/2869968f-85ed-4ee6-99a2-08dca74a95c4" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/060d005a-9fa1-448f-8284-912cd2b53dfe" />
+<br/><br/><br/>
+<img width="300" src="https://github.com/user-attachments/assets/b6df1e12-3498-441f-af4e-06319b6fb0d2" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/795e361f-7b95-48aa-8873-4aba88d9468d" />
+<br/><br/><br/>
+<img width="300" src="https://github.com/user-attachments/assets/a2c8d0f2-e461-4d0f-8bbc-5a99100bca3a" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
